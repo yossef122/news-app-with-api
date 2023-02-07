@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 69,
+-"articles": [
+-{
+-"source": {
+"id": "axios",
+"name": "Axios"
+},
+"author": "Annalise Frank",
+"title": "Kia and Hyundai vehicles across America are being stolen in seconds - Axios",
+"description": "The widespread problem is attributed to design flaws in the cars.",
+"url": "https://www.axios.com/2022/08/27/kia-hyundai-thefts-stolen-usb-immobilizer-tiktok",
+"urlToImage": "https://images.axios.com/LM5Gq9gRAG_PSRwXEZsea5gB4NM=/0x0:1920x1080/1366x768/2022/08/25/1661457676874.jpg",
+"publishedAt": "2022-08-27T11:57:00Z",
+"content": "It can take as little as under a minute to steal some Hyundai and Kia models, and it's happening all across the country. \r\nWhy it matters: The widespread problem is attributed to design flaws in the … [+4448 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Fox Business"
+},
+"author": "Aislinn Murphy",
+"title": "Air travel complaints up nearly 270% above pre-pandemic levels - Fox Business",
+"description": "With travel demand higher since COVID, air travel service complaints jumped nearly 270% from pre-pandemic levels in June 2019, according to a new DOT report.",
+"url": "https://www.foxbusiness.com/markets/air-travel-complaints-up-270-percent-above-pre-pandemic-levels",
+"urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/02/0/0/winter-storm-grounds-airlines.jpg?ve=1&tl=1",
+"publishedAt": "2022-08-27T11:48:55Z",
+"content": "Air travel service complaints jumped nearly 270% from pre-pandemic levels in June 2019, according to the Department of Transportation's (DOT) air travel consumer report released Friday.\r\nThe DOT rece… [+4860 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Amelia Lucas",
+"title": "Breakfast sales hold steady as people heading back to offices cut back elsewhere - CNBC",
+"description": "Consumers are cutting back on restaurant spending, but breakfast sales appear to be holding steady.",
+"url": "https://www.cnbc.com/2022/08/27/breakfast-sales-hold-steady-as-people-heading-back-to-offices-cut-back-elsewhere.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/102963795-GettyImages-481668540.jpg?v=1540310037&w=1920&h=1080",
+"publishedAt": "2022-08-27T11:00:01Z",
+"content": "Consumers may be dining out less, but breakfast sales are holding steady as people return to offices and grab a quick bite or iced coffee on the way to work.\r\nOverall traffic to restaurants fell 2% i… [+4910 chars]"
+},
+-{
+-"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Clare Duffy, CNN Business",
+"title": "How Twitter has been shaken by a whistleblower's allegations - CNN",
+"description": "In the days since it was first reported that former Twitter head of security Peiter \"Mudge\" Zatko had filed an explosive whistleblower disclosure, the company has had to confront renewed scrutiny from lawmakers, a dip in its stock price and added uncertainty …",
+"url": "https://www.cnn.com/2022/08/27/tech/twitter-whistleblower-fallout/index.html",
+"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200716133004-file-twitter-headquarters-2019-super-tease.jpg",
+"publishedAt": "2022-08-27T10:57:00Z",
+"content": "New York (CNN Business)In the days since it was first reported that former Twitter head of security Peiter \"Mudge\" Zatko had filed an explosive whistleblower disclosure, the company has had to confro… [+8273 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Cointelegraph"
+},
+"author": "William Suberg",
+"title": "Bitcoin price briefly loses $20K on 'bunch of nothing' Powell speech - Cointelegraph",
+"description": "BTC price predictions focus on sub-$20,000 levels as Bitcoin traders prepare for the worst.",
+"url": "https://cointelegraph.com/news/bitcoin-price-briefly-loses-20k-on-bunch-of-nothing-powell-speech",
+"urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDgvMzk3NmQ4OTctOTA2YS00NDdhLWI0MzItODhiMmQ2M2FmMWVkLmpwZw==.jpg",
+"publishedAt": "2022-08-27T10:41:43Z",
+"content": "Bitcoin (BTC) analysts were keen to draw fresh price targets on Aug. 27 after the largest cryptocurrency briefly fell below $20,000.\r\nBTC/USD 1-hour candle chart (Bitstamp). Source: TradingView\r\nSub-… [+4463 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "New York Post"
+},
+"author": "Nika Shakhnazarova",
+"title": "Elon Musk's mother Maye Musk sleeps in 'garage' when visiting him in Texas - New York Post ",
+"description": "“You can’t have a fancy house near a rocket site,” she noted.",
+"url": "https://nypost.com/2022/08/27/maye-musk-sleeps-in-garage-when-visiting-billionaire-son-elon-musk-in-texas/",
+"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/08/Elon-Musk-4.jpg?quality=75&strip=all&w=1024",
+"publishedAt": "2022-08-27T10:15:00Z",
+"content": "Maye Musk’s sleeping arrangements at her son Elon Musk’s house may come as a shock to some.\r\nDespite the fact that her multi-billionaire son is the world’s richest man, the 74-year-old model said he’… [+1227 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Cointelegraph"
+},
+"author": "William Suberg",
+"title": "US stocks lose $1.25T in a day — more than entire crypto market cap - Cointelegraph",
+"description": "BTC price steadies after Fed inflation comments knock $1.25 trillion off U.S. stocks, Bitcoin loses big.",
+"url": "https://cointelegraph.com/news/us-stocks-lose-1-25t-in-a-day-more-than-entire-crypto-market-cap",
+"urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDgvMjlhYTMzMjktYmQ3MS00NGIzLWEzNWMtNzIzY2RlOGYxMGYzLmpwZw==.jpg",
+"publishedAt": "2022-08-27T09:43:41Z",
+"content": "Bitcoin (BTC) and altcoins lost big on Aug. 26 after the United States Federal Reserve delivered hawkish remarks on economic policy.\r\nAcross the board, risk assets took a major hit U.S. equities shed… [+3408 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Fox Business"
+},
+"author": "Ken Martin",
+"title": "FedEx cuts ties with ground delivery contractor, files suit - Fox Business",
+"description": "FedEx has cut ties with one of its largest delivery contractors after suing him for spreading misinformation about the company.",
+"url": "https://www.foxbusiness.com/markets/fedex-cuts-ties-ground-delivery-contractor-files-suit",
+"urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/08/0/0/FedEx-Ground-location-A.jpg?ve=1&tl=1",
+"publishedAt": "2022-08-27T07:42:58Z",
+"content": "FedEx Corp has severed its relationship with one of its largest delivery contractors effective immediately.\r\nThe package delivery company filed suit, asking a federal judge to stop the contractor fro… [+3283 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Page Six"
+},
+"author": "Nika Shakhnazarova",
+"title": "Grimes says Mark Zuckerberg is 'wildly under-qualified' to run the Metaverse - Page Six",
+"description": "“If Zuck oversees the Metaverse it is dead,” Grimes said.",
+"url": "https://pagesix.com/2022/08/27/grimes-calls-mark-zuckerberg-under-qualified-to-run-the-metaverse/",
+"urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/08/newspress-collage-6372670-1661585028853.jpg?quality=75&strip=all&1661570719&w=1200",
+"publishedAt": "2022-08-27T07:34:00Z",
+"content": "It seems as though it may take some convincing for Grimes if Mark Zuckerberg were ever to run the Metaverse.\r\nThe singer, 34, expressed her disdain over the tech mogul’s plans to expand the company f… [+1793 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "WMUR Manchester"
+},
+"author": "Tim Callery",
+"title": "New Hampshire Lottery website experiences cyberattack - WMUR Manchester",
+"description": "New Hampshire Lottery officials warned of a cyberattack on its website on Friday.",
+"url": "https://www.wmur.com/article/new-hampshire-lottery-website-experiences-cyber-attack/41000488",
+"urlToImage": "https://kubrick.htvapps.com/vidthumb/3f33d035-f43b-40fe-8250-b53446301608/3f33d035-f43b-40fe-8250-b53446301608_image.jpg?crop=0.794xw:0.794xh;0.0832xw,0&resize=1200:*",
+"publishedAt": "2022-08-27T03:13:00Z",
+"content": "CONCORD, N.H. —New Hampshire Lottery officials warned of a cyberattack on its website on Friday.\r\nOfficials said people visiting the site should not click on any pop-up messages.\r\nLottery officials a… [+1920 chars]"
+},
+-{
+-"source": {
+"id": "axios",
+"name": "Axios"
+},
+"author": "Axios",
+"title": "Moderna sues Pfizer, BioNTech over COVID-19 vaccine - Axios",
+"description": "The lawsuit seeks unspecified monetary damages for patent infringement.",
+"url": "https://www.axios.com/2022/08/26/moderna-sues-pfizer-biontech-covid-19-vaccine",
+"urlToImage": "https://images.axios.com/_d3xxFnUhUmgyuFODVyH4oKa2ds=/0x280:4200x2643/1366x768/2022/08/26/1661516230019.jpg",
+"publishedAt": "2022-08-27T02:24:44Z",
+"content": "Moderna is suing Pfizer and BioNTech, alleging they copied technology that Moderna first developed years before the pandemic in producing the first COVID-19 vaccine approved in the U.S., the company … [+2333 chars]"
+},
+-{
+-"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "3M combat earplug lawsuits to proceed, judge rules, despite bankruptcy case - Reuters",
+"description": "3M Co must face more than 230,000 lawsuits accusing it of selling defective earplugs to the U.S. military, after a U.S. judge on Friday ruled that the bankruptcy of a subsidiary did not stop lawsuits against the non-bankrupt parent company.",
+"url": "https://www.reuters.com/markets/us/3m-subsidiarys-bankruptcy-fails-stop-combat-earplug-lawsuits-2022-08-26/",
+"urlToImage": "https://www.reuters.com/resizer/qe9kuM3gqqdGEbfNJMGPgMiGE1k=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4WJAEGLQRNI23P42V6C234WPIA.jpg",
+"publishedAt": "2022-08-27T01:24:00Z",
+"content": "Aug 26 (Reuters) - 3M Co must face more than 230,000 lawsuits accusing it of selling defective earplugs to the U.S. military, after a U.S. judge on Friday ruled that the bankruptcy of a subsidiary di… [+3602 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Deadline"
+},
+"author": "Bruce Haring",
+"title": "Netflix Reportedly Targeting Ad-Supported Tier At $7 To $9, With Rollout Later This Year - Deadline",
+"description": "A report today from financial services giant Bloomberg claims Netflix has arrived at a price point for its new advertising-supported tier, offering it at roughly half what its current and most popular no-commercials plan charges. The report claims Netflix is …",
+"url": "https://deadline.com/2022/08/netflix-reported-targeting-ad-supported-pricing-at-half-current-rate-bloomberg-claims-1235101407/",
+"urlToImage": "https://deadline.com/wp-content/uploads/2022/08/Netflix_Symbol_logo.jpg?w=1024",
+"publishedAt": "2022-08-27T01:13:00Z",
+"content": "A report today from financial services giant Bloomberg claims Netflix has arrived at a price point for its new advertising-supported tier, offering it at roughly half what its current and most popula… [+1951 chars]"
+},
+-{
+-"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Richard Lawler",
+"title": "Zuckerberg and Sandberg won’t face Cambridge Analytica deposition - The Verge",
+"description": "With depositions nearing for Facebook / Meta founder and leader Mark Zuckerberg as well as now-former COO Sheryl Sandberg, in a lawsuit over the Cambridge Analytica data scandal, the company has reached a settlement.",
+"url": "https://www.theverge.com/2022/8/26/23324187/mark-zuckerberg-sheryl-sandberg-cambridge-analytica-meta-facebook",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/5JEbwrvyxCcENuLPv9_5kif2OVA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10471937/wjoel_180319_2394_facebook_0004.jpg",
+"publishedAt": "2022-08-27T00:55:07Z",
+"content": "Meta settled the case just in time\r\nIllustration by William Joel / The Verge\r\nMark Zuckerberg and Sheryl Sandberg were in line to give hours of depositions in response to a lawsuit over Facebook and … [+1505 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "New York Post"
+},
+"author": "James Brooke",
+"title": "Putin's squeeze on European energy is threatening disaster across the continent - New York Post ",
+"description": "“The winter is coming, and we don’t know how cold it will be,” the Czech Republic’s minister of industry and trade, Jozef Sikela, said last month. “But what we know for sure is that Putin will cont…",
+"url": "https://nypost.com/2022/08/26/putins-squeeze-european-energy-is-threatening-disaster-across-the-continent/",
+"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/08/broke-europe-index.jpg?quality=75&strip=all&w=1024",
+"publishedAt": "2022-08-27T00:36:00Z",
+"content": "After six months of war in Ukraine, President Vladimir Putins military offensive has stalled. Now, as winter looms, Putin is aggressively playing the energy card. Russia is deliberately deepening Eur… [+4600 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Kevin O'Leary: 'Quiet quitting' is the dumbest idea I've ever heard - CNBC Television",
+"description": null,
+"url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dmz-W4USiFpc",
+"urlToImage": null,
+"publishedAt": "2022-08-27T00:31:41Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Wall Street Week - Full Show 08/26/2022 - Bloomberg Markets and Finance",
+"description": "On this edition of Wall Street Week, Liz Ann Sonders, Charles Schwab Chief Investment Strategist and Peter Kraus, Aperture Investors Chairman CEO & Former Al...",
+"url": "https://www.youtube.com/watch?v=p07aOg-ttw4",
+"urlToImage": "https://i.ytimg.com/vi/p07aOg-ttw4/hqdefault.jpg",
+"publishedAt": "2022-08-27T00:25:30Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Stocks plunge after Fed Chief Jerome Powell signals another big rate hike is ahead - CNBC Television",
+"description": "CNBC's Steve Liesman reports from Jackson Hole after Fed Chair Jay Powell's remarks today. With CNBC's Courtney Reagan and the Fast Money traders, Tim Seymou...",
+"url": "https://www.youtube.com/watch?v=yLdA4Oi_Fgw",
+"urlToImage": "https://i.ytimg.com/vi/yLdA4Oi_Fgw/hqdefault.jpg",
+"publishedAt": "2022-08-26T23:33:18Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Investor's Business Daily"
+},
+"author": "Investor's Business Daily",
+"title": "Here's What To Do As Market Rally Feels Powell's 'Pain' - Investor's Business Daily",
+"description": "The major indexes and leading stocks showed bearish action last week.",
+"url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-feels-fed-chief-powell-pain-what-to-do/",
+"urlToImage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-jeromepowell2022-02-gov.jpg",
+"publishedAt": "2022-08-26T23:10:00Z",
+"content": "Dow Jones futures will open on Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally suffered significant losses for a second straight week, with Federal Reserve c… [+10543 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "WPVI-TV"
+},
+"author": null,
+"title": "Mega Millions: Winning ticket for $1.34 billion jackpot still unclaimed in Illinois, lottery director says winner has 1 year - WPVI-TV",
+"description": "It's been nearly a month since that billion-dollar Mega Millions jackpot ticket was sold, but the winner still hasn't claimed all that money.",
+"url": "https://6abc.com/mega-millions-lottery-winner-2022-134-billion-jackpot-winning-ticket-unclaimed/12169619/",
+"urlToImage": "https://cdn.abcotvs.com/dip/images/12168550_082622-wabc-mega-millions-ticket-img.jpg?w=1600",
+"publishedAt": "2022-08-26T22:30:00Z",
+"content": "ILLINOIS -- It's been nearly a month since that billion dollar Mega Millions jackpot ticket was sold, but the winner still hasn't claimed all that money.\r\nAmericans watched for almost a month as the … [+1985 chars]"
+}
+]
+}
